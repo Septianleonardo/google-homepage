@@ -1,5 +1,16 @@
-This is a small project from The Odin project!
-so I'm about to build a google homepage
-the skill I need to do this project are git, html, css, etc.
+# Tindog
 
-experience it here https://septianleonardo.github.io/google-homepage/
+ A landing page made with HTML and  CSS from google homepage.
+
+## Preview
+
+![google-homepage-img](images/preview1.PNG)
+
+## Installation
+
+```bash
+Download files and run index.html
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
